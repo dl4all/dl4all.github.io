@@ -5,3 +5,4 @@
 
 - [ ] Back-propagation.
 - [ ] Embedding.
+- [ ] Data normalization.
