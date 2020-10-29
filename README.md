@@ -3,6 +3,7 @@
 
 ## To write about
 
-- [ ] Back-propagation.
-- [ ] Embedding.
-- [ ] Data normalization.
+- [ ] Bias and variance;
+- [ ] Back-propagation;
+- [ ] Embedding;
+- [ ] Data normalization;
