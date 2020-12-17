@@ -6,6 +6,8 @@
 - [ ] Back-propagation;
 - [ ] Embedding;
 - [ ] Data normalization;
+- [ ] Hypothesis testing;
+- [ ] Confidence intervals;
 
 ## To do and ideas
 
