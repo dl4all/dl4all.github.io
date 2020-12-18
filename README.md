@@ -8,6 +8,7 @@
 - [ ] Data normalization;
 - [ ] Hypothesis testing;
 - [ ] Confidence intervals;
+- [ ] Naive Bayes Classifier;
 
 ## To do and ideas
 
