@@ -19,3 +19,4 @@
 - [ ] Genetic algorithm using neural network;
 - [ ] Add an example about how to use ONNX.js;
 - [ ] Use Flink to pre-process the dataset;
+- [ ] GAN;
