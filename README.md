@@ -1,3 +1,7 @@
+# About
+
+A machine learning study group.
+
 - [Blog](./blog)
 
 ## To write about
