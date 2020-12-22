@@ -1,6 +1,6 @@
 # About
 
-A machine learning study group.
+A machine learning study group. See the projects developed [here](https://github.com/dl4all).
 
 - [Blog](./blog)
 
